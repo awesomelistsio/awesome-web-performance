@@ -42,6 +42,7 @@
 - [Google Lighthouse](https://developers.google.com/web/tools/lighthouse) - Automated tool for improving the quality of web pages.
 - [WebPageTest](https://www.webpagetest.org/) - Detailed performance testing with real browsers.
 - [GTmetrix](https://gtmetrix.com/) - Website performance testing and monitoring.
+- [PageGuard](https://pageguard.qiudeqiu.workers.dev) - Free website health scanner with Core Web Vitals (LCP, FCP, CLS, TTFB), SEO, accessibility, and AI-powered performance action plans. No signup required.
 - [Pingdom](https://www.pingdom.com/) - Uptime and performance monitoring.
 - [PerfBudget](https://perf-budget.com/) - Set and track performance budgets.
 
