@@ -52,6 +52,8 @@
 - [Critical Rendering Path](https://developers.google.com/web/fundamentals/performance/critical-rendering-path) - Understanding and optimizing the critical rendering path.
 - [HTTP/2](https://developers.google.com/web/fundamentals/performance/http2) - How HTTP/2 improves performance.
 - [Image Optimization](https://imageoptim.com/) - Tools and techniques for optimizing images.
+- [LeanImg](https://leanimg.com) — Browser-based image toolkit: compress, resize, crop, and convert between 11 formats (JPG, PNG, WebP, AVIF, HEIC, etc.). Uses WASM codecs.
+
 
 ### Frontend Optimization
 
